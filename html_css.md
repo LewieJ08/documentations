@@ -21,7 +21,7 @@ This HTML tag is used at the start of every HTML file. It is a way to tell the b
 <html> </html>
 ```
 
-These are HTML tags. These are again, within every HTML file. These tags indicate to the brower that all the code between these tags are HTML showing the start anf endpoint of the code. These should be at the top and bottom of the file under the ```<!DOCTYPE html>``` tag.
+These are HTML tags. These are again, within every HTML file. These tags indicate to the brower that all the code between these tags are HTML showing the start and endpoint of the code. These should be at the top and bottom of the file under the ```<!DOCTYPE html>``` tag.
 
 ```html
 <head> </head>
