@@ -38,3 +38,5 @@ These are Head tags, they define the header section of the HTML. The header sect
 
 This is an example of what you would use inside of the header tags. These are title tags which are used to determine the title of the webpage. the title can be seen within the browser like this:
 
+ ![title shown in browser](/images/title_tag.png)
+
