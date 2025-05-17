@@ -1,6 +1,7 @@
 # HTML - CSS Documentation
+
 ### (HyperText Markup Language) - (Cascading Style Sheets)
-<hr>
+
 
 ## Intro
 HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
@@ -28,4 +29,12 @@ These are HTML tags. These are again, within every HTML file. These tags indicat
 ```
 
 These are Head tags, they define the header section of the HTML. The header section contains meta data about the page like the title, favicon or styling link (all things that will be mentions within this doc).
+
+```html
+<head>
+    <title>My first website</title>
+</head>
+```
+
+This is an example of what you would use inside of the header tags. These are title tags which are used to determine the title of the webpage. the title can be seen within the browser like this:
 
