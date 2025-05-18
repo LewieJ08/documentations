@@ -28,7 +28,7 @@ These are HTML tags. These are again, within every HTML file. These tags indicat
 <head> </head>
 ```
 
-These are Head tags, they define the head section of the HTML. The head section contains meta data about t  e page like the title, favicon or styling link (all things that will be mentions within this doc).
+These are Head tags, they define the head section of the HTML. The head section contains meta data about the page like the title, favicon or styling link (all things that will be mentions within this doc).
 
 ```html
 <head>
@@ -39,4 +39,8 @@ These are Head tags, they define the head section of the HTML. The head section 
 This is an example of what you would use inside of the head tags. These are title tags which are used to determine the title of the webpage. the title can be seen within the browser like this:
 
  ![title shown in browser](/images/title_tag.png)
+
+ ```html
+<body> <body>
+ ```
 
